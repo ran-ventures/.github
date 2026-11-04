@@ -8,6 +8,7 @@ This organization is the home for all my SaaS projects, web applications, and to
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
+| [Didakta](https://github.com/ran-ventures/didakta) ([didakta.my.id](https://didakta.my.id)) | Ruang olah naskah dan penyusunan modul ajar akademik | In development |
 | [Leedlime](https://leedlime.com/) | Lead workflow and client acquisition tool | In progress |
 
 More projects will be listed here as they are built.
